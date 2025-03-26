@@ -1,0 +1,114 @@
+body {
+  background-image: url(Estilos_imagenes/Fondo.png);
+}
+table {
+  border: rgb(0, 0, 0) 5px solid;
+  border-radius: 20px;
+  margin: 10px 0px 50px;
+  background-image: url(Estilos_imagenes/fondoResnas.jpg);
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-family: "Caveat", cursive;
+  font-size: 50px;
+  border: rgb(17, 29, 31) 8px solid;
+  border-radius: 20px;
+  margin: 10px 100px 20px 100px;
+  padding: 35px;
+  background-image: url(Estilos_imagenes/fondoTitulo.jpg);
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+.subTitu {
+  font-family: "Courgette", cursive;
+  font-size: 20px;
+  color: rgb(197, 190, 150);
+  border: rgb(25, 32, 32) 5px solid;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin: 10px 170px 20px 170px;
+  background-image: url(Estilos_imagenes/fondoSubtitulo.jpg);
+}
+.tablaSub {
+  margin: 25px;
+}
+
+.a {
+  background-color: black;
+  border: paleturquoise 3px solid;
+  border-radius: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: "Fredericka the Great", cursive;
+  font-size: 18px;
+  color: white;
+}
+.p {
+  font-family: "Lemonada", cursive;
+  font-size: 18px;
+  color: white;
+}
+.p2 {
+  font-family: "Baskervville", serif;
+  font-size: 20px;
+  color: white;
+}
+.p3 {
+  font-family: "Baskervville", serif;
+  font-size: 16px;
+  color: white;
+  padding: 5px;
+}
+.tablasContenido {
+  float: left;
+  margin: 20px;
+  width: 46%;
+}
+
+.imagen {
+  width: 300px;
+  height: 180px;
+  padding: 15px;
+}
+
+.texto1 {
+  color: white;
+}
+.imagenICO {
+  width: 50px;
+  padding: 10px;
+  float: left;
+}
+.imagenAragon {
+  width: 75px;
+  float: right;
+}
+.tablaIco {
+  margin: -8px;
+  width: 101.22%;
+  padding: 10px;
+  background-color: whitesmoke;
+}
+.tr {
+  text-align: center;
+  background-color: beige;
+  width: 101.22%;
+  margin: -9px;
+}
+.ico {
+  text-align: left;
+}
+.fes {
+  text-align: right;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: -8px;
+}
